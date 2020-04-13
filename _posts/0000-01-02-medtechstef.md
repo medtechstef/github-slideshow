@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+poop your pants
 fuck me or use the left arrow to go back!
